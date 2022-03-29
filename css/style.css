@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    background: linear-gradient(89.81deg, rgba(32, 32, 47, 0.91) 29.98%, rgba(32, 32, 47, 0.428555) 50.25%, rgba(32, 32, 47, 0) 61.23%), linear-gradient(4.48deg, rgba(32, 32, 47, 0.631391) -16%, #20202F -0.26%, rgba(32, 32, 47, 0) 13.02%, rgba(32, 32, 47, 0) 13.78%),  url(../img/cropped-1440-900-1002384\ 1.png); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    background-blend-mode: darken;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+
+
+
+
+
+
+main{
+    
+    flex-grow: 1;
+}
+ 
+footer{
+    
+    height:  167px;
+}

@@ -1,0 +1,35 @@
+header{
+    height:  80px;
+    padding-left: 22px;
+    padding-top: 17px;
+    display: flex;
+    justify-content: ;
+    align-items: center
+}
+
+.links-container{
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    list-style: none;
+    height: 47px; 
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.movie{
+width: 26px;
+height: 14.47px;
+left: 652px;
+top: 40px;
+
+}
+
+.fmovie{
+    width: 52px;
+height: 16px;
+left: 682px;
+top: 40px;
+
+}
